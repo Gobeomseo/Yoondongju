@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: "BMJUA";
+}
+@font-face {
+    src : url("BMJUA.ttf");
+    font-family: "BMJUA";
+}
+ol {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
